@@ -2,10 +2,10 @@ from pyrogram import Client
 import config
 
 DOWNLOAD_LOCATION = "./Downloads"
-BOT_TOKEN = config.BOT_TOKEN
+BOT_TOKEN = 1559670734:AAHvyr47ekvjayMcwd8D4-AjGrweK4MAQeY
 
-APP_ID = config.APP_ID
-API_HASH = config.API_HASH
+APP_ID = 3163214
+API_HASH = beca6bc2790326f46aff39b70cb33f9a
 
 
 plugins = dict(
